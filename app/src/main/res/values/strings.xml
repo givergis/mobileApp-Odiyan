@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Odiyan</string>
+
+    <string name="title_activity_full_wallpaper">FullWallpaper</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="lyrics1_content">Enoruvan- Mohanlal</string>
+    <string name="lyrics2_content">Kondoram- Sudeep Kumar,Shreya Ghoshal</string>
+    <string name="lyrics3_content">Maanam Thudukkanu- Shreya Ghoshal</string>
+</resources>
